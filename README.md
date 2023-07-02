@@ -27,3 +27,20 @@ Hint: get started by running `dotnet new angular`.
    - Clicking the table headers should sort the table by this column
 
 Once complete, please commit and push your changes and create a pull request for review.
+
+## To start the application
+1. Server runs on port localhost:5000
+   >cd API
+   >dotnet run
+
+2. Angular client runs on port localhost:4200
+   >cd client
+   >npm start
+
+3. Go to browser tab 
+   >localhost:4200
+
+NB ReadMe.txt file lists items not included because
+   - unable to find solution to implement
+   - project time constraints 
+   - out of scope
