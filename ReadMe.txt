@@ -1,3 +1,9 @@
+My intention was 
+- to create a TopProducts branch off the master
+- commit my work to this branch
+- create a Pull Request for code review prior to being able to merge to the master branch
+
+
 This file lists aspects that were out of scope for the following reasons
 - Unable to implement
 - Not implemented because of time constraints

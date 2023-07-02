@@ -40,6 +40,12 @@ Once complete, please commit and push your changes and create a pull request for
 3. Go to browser tab 
    >localhost:4200
 
+## Github workflow
+My intention was 
+- to create a TopProducts branch off the master
+- commit my work to this branch
+- create a Pull Request for code review prior to being able to merge to the master branch
+
 NB ReadMe.txt file lists items not included because
    - unable to find solution to implement
    - project time constraints 
